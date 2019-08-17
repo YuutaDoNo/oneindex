@@ -1,6 +1,6 @@
 <?php return array (
-  'site_name' => 'OneIndex',
-  'password' => 'oneindex',
+  'site_name' => 'Mabors Video',
+  'password' => 'MaborsSubs',
   'style' => 'material',
   'onedrive_root' => '/maborscom/',
   'cache_type' => 'secache',
